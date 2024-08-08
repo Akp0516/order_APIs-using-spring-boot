@@ -1,0 +1,11 @@
+com\akpgrp\serviceapi\dto\ProductRequest$ProductRequestBuilder.class
+com\akpgrp\serviceapi\model\Product$ProductBuilder.class
+com\akpgrp\serviceapi\util\DataLoader.class
+com\akpgrp\serviceapi\model\Product.class
+com\akpgrp\serviceapi\dto\ProductRequest.class
+com\akpgrp\serviceapi\ServiceapiApplication.class
+com\akpgrp\serviceapi\repository\ProductRepository.class
+com\akpgrp\serviceapi\dto\ProductResponse$ProductResponseBuilder.class
+com\akpgrp\serviceapi\dto\ProductResponse.class
+com\akpgrp\serviceapi\service\ProductService.class
+com\akpgrp\serviceapi\controller\ProductController.class
